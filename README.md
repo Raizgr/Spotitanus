@@ -258,7 +258,7 @@ Automatic updates
 🌟 SpotiTanus: The evolution of music streaming.
 Discover music like never before.
 
-📹 Videos and screenshots coming soon!
+📹 https://www.youtube.com/watch?v=yeU83tC7sS8
 ⏳ Development is time-consuming, so your support is essential to reach the publishing goal.
 
-buymeacoffee.com/gaetano90rd
+[https://buymeacoffee.com/gaetano90rd](https://buymeacoffee.com/gaetano90rd)
