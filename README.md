@@ -3,8 +3,6 @@
 🚀 The most advanced and complete Spotify player. Core features are already working, while some modules are still in progress.
 👉 I’m still perfecting a few features and creating videos/screenshots to showcase the player. Because development takes a lot of time, your support is crucial! If you enjoy the project, you can buy me a coffee ☕ — once I reach my goal, I’ll publish the full source code.
 
-Buy me a coffee
-
 💡 You can even view SpotiTanus in your car with Android Auto using FermataAuto or just a simple browser.
 
 🌟 MAIN FEATURES
@@ -261,8 +259,8 @@ Automatic updates
 🌟 SpotiTanus: The evolution of music streaming.
 Discover music like never before.
 
-📹 Watch demo video
+📹 Watch demo video https://www.youtube.com/watch?v=yeU83tC7sS8
 
 ⏳ Development is time-consuming, so your support is essential to reach the publishing goal.
 
-Buy me a coffee
+Buy me a coffee https://buymeacoffee.com/gaetano90rd
