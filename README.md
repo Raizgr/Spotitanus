@@ -259,7 +259,7 @@ Automatic updates
 🌟 SpotiTanus: The evolution of music streaming.
 Discover music like never before.
 
-📹 Watch demo video https://www.youtube.com/watch?v=yeU83tC7sS8
+📹 Watch demo video [https://www.youtube.com/watch?v=yeU83tC7sS8](https://youtu.be/LrRYQjPf4aw)
 
 ⏳ Development is time-consuming, so your support is essential to reach the publishing goal.
 
